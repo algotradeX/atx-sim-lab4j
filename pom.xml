@@ -16,6 +16,7 @@
 
     <properties>
         <java.version>11</java.version>
+        <ta4j.version>0.14-SNAPSHOT</ta4j.version>
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
         <spring-cloud.version>Hoxton.SR6</spring-cloud.version>
         <vaadin.version>14.3.1</vaadin.version>
@@ -54,6 +55,13 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-circuitbreaker-resilience4j</artifactId>
+        </dependency>
+
+        <!-- ta4j dependency -->
+        <dependency>
+            <groupId>org.ta4j</groupId>
+            <artifactId>ta4j-core</artifactId>
+            <version>${ta4j.version}</version>
         </dependency>
 
         <!-- Database Dependencies -->
@@ -173,5 +181,12 @@
             </plugin>
         </plugins>
     </build>
+
+    <repositories>
+        <repository>
+            <id>sonatype snapshots</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+        </repository>
+    </repositories>
 
 </project>
