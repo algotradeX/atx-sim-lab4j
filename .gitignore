@@ -38,3 +38,6 @@ hs_err_pid*
 # Maven
 log/
 target/
+
+# Vaadin
+node_modules/
