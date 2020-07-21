@@ -1,4 +1,4 @@
-package atx.sim.lab4j;
+package atx.sim.lab4j.sample;
 
 import com.opencsv.CSVReader;
 import lombok.extern.slf4j.Slf4j;
