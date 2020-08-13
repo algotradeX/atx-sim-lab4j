@@ -1,6 +1,6 @@
 SimLab4j
 ----------------------------------------------------------
-**atx-sim-lab4j** : 🔬 ☕ Simulation framework for simulation, analysis and back-testing trading strategies in Java 
+**atx-sim-lab4j** : 🔬 ☕ Simulation framework for simulation, analysis and back-testing trading strategies in Java
 
 
 
@@ -15,6 +15,11 @@ Features:
 
 Contributors
 ----------------------------------------------------------
+[![Slack Invite](https://img.shields.io/badge/slack-@AlgoTradeX/general-yellow.svg?logo=slack)](https://join.slack.com/t/algotradex/shared_invite/zt-gjqyf5yt-J~_KtukjhrwByL6JeOSSbA) 
+[![Discord Widget](https://img.shields.io/discord/724039474866159706?label=Discord&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bfDwgVb)
+
+Join Slack, Discord or **@algotradeX/atx-global-team** to chat with the community and share your ideas.
+
 [![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-lab4j/images/0)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-lab4j/links/0)
 [![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-lab4j/images/1)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-lab4j/links/1)
 [![](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-lab4j/images/2)](https://sourcerer.io/fame/pritam001/algotradeX/atx-sim-lab4j/links/2)
