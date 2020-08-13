@@ -41,3 +41,6 @@ target/
 
 # Vaadin
 node_modules/
+
+# java version file
+.java-version
